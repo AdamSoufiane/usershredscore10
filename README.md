@@ -1,0 +1,1 @@
+The 'userShredScore10' shred is designed to handle user registration within a Spring Boot application, following Hexagonal Architecture. It provides an API endpoint for user registration, error handling, and interaction with a Postgres database for persistence. The application layer coordinates the 
